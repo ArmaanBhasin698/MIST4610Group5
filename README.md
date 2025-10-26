@@ -7,7 +7,7 @@ Group 5 MIST 4610 project- armaan bhasin
 62755 Group 5
 
 ## Team Members:
-1. Armaan Bhasin [@armaanbhasin](https://www.github.com/taralbpatel)
+1. Armaan Bhasin [@armaanbhasin](https://github.com/ArmaanBhasin698/Group5_ArmaanBhasin)
 2. Colby Cannizzaro [@colbycannizzaro](https://github.com/colbycannizzaro/MIST4610GroupProject1)
 3. Evan Liu [@evanliu](https://github.com/evanl0l/4610)
 4. Theresa Nguyen[@theresanguyen](https://www.github.com/RipleyKurtz)
