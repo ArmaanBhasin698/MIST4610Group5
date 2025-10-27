@@ -1,5 +1,5 @@
 # Group5_ArmaanBhasin
-Group 5 MIST 4610 project- armaan bhasin
+Group 5 MIST 4610 project- Armaan Bhasin
 
 # Group 5 MIST 4610 Group Project 1
 
