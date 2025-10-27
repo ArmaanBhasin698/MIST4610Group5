@@ -77,7 +77,7 @@ USE ns_F25MIST4610_62755_Group5;
 
 This query provides a summary of the different activity categories that are offered by the Department of Recreational Sports, making it quick for a manager to observe.
 
-2. List all client information - Theresa
+2. List all client information 
 
 <img width="625" height="302" alt="image" src="https://github.com/user-attachments/assets/501a27b9-1ea7-41d1-bb48-809965d05c0f" />
 
@@ -90,7 +90,7 @@ This query provides the necessary information about the clients of Recreational 
 
 From a managerial perspective, this query helps identify which classes are scheduled in the afternoon on Tuesdays. Managers can use this to balance instructor workloads, allocate resources and ensure classes are spread evenly throughout the day.
 
-4. List average package prices of clients that attend more than five classes a week.-Evan
+4. List average package prices of clients that attend more than five classes a week.
 
 <img width="626" height="312" alt="image" src="https://github.com/user-attachments/assets/7bbb3f2f-d9a0-4c85-8c93-8ceecb0499da" />
 
@@ -98,7 +98,7 @@ This query provides important information about clients who attend a higher numb
 
 ### Complex
 
-5. List the contact information including name, number, and email of all staff that have the ACE certification - Allison
+5. List the contact information including name, number, and email of all staff that have the ACE certification 
 
 <img width="625" height="234" alt="image" src="https://github.com/user-attachments/assets/d3f2da61-e57a-4b14-b459-702e0165072f" />
 
@@ -116,7 +116,7 @@ This query is helpful from a managerial perspective to identify repeat clients f
 
 From a managerial perspective, UGA Recreational Sports likes to see which classes are popular among students to know if they are worth having. This query returns the number of students that attended cycling classes on Thursdays.  
 
-8. List the client who attended both yoga sessions on September 20th, 2025. - Colby
+8. List the client who attended both yoga sessions on September 20th, 2025. 
 
 <img width="626" height="194" alt="image" src="https://github.com/user-attachments/assets/c6734187-d568-4d4e-945b-338f3c0cd5d6" />
 
